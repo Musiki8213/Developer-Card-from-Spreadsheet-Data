@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="App.css">
-    <title>Developer Card</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developer Cards</title>
+  <link rel="stylesheet" href="App.css">
 </head>
 <body>
-    <script src="App.js"></script>
+  <h1>Developer Cards</h1>
+  <div id="dev-cards-container" class="cards-container"></div>
+
+  <!-- Load developers first -->
+  <script src="developers.js"></script>
+  <!-- Then load the card generator -->
+  <script src="script.js"></script>
 </body>
 </html>
