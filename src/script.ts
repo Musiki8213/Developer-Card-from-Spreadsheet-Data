@@ -46,7 +46,7 @@ class DevCardManager {
   }
 }
 
-// Example usage (assuming `developers` is defined elsewhere)
+
 declare const developers: Developer[];
 
 const manager = new DevCardManager("dev-cards-container", developers);
