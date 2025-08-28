@@ -1,0 +1,24 @@
+{
+  "name": "task-6.2-oop-dev-data-card-generator",
+  "version": "1.0.0",
+  "description": "Repo Image (https://socialify.git.ci/Musiki8213/Developer-Card-from-Spreadsheet-Data/image?language=1&owner=1&name=1&stargazers=1&theme=Light)",
+  "main": "developers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musiki8213/Task-6.2-OOP-Dev-Data-Card-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Musiki8213/Task-6.2-OOP-Dev-Data-Card-Generator/issues"
+  },
+  "homepage": "https://github.com/Musiki8213/Task-6.2-OOP-Dev-Data-Card-Generator#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
